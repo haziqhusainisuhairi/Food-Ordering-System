@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DailyReport
+comment1.params=
+comment1.target=DailyReport()
+comment2.params=totalsale\ totalcustomer\ avgsale\ highestfood\ hfString
+comment2.target=DailyReport(double,\ int,\ double,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
